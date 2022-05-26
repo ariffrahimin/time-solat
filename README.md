@@ -48,7 +48,7 @@
 
 This is a simple static webapp that uses e-solat API to view the current time solat at Sepang.
 
-The Web app are hosted using firebase at [TimeSolat](https://time-solat.web.app/)
+The Web app are hosted using firebase at [TimeSolat](https://time-solat.firebaseapp.com/)
 
 ## :sparkles: Features
 
