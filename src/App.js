@@ -3,7 +3,7 @@ import Helmet from "react-helmet";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App bg-red-200 h-screen">
       <Helmet>
         <meta charSet="utf-8" />
         <title>Time Solat</title>

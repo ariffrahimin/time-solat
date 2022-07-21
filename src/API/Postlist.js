@@ -39,8 +39,10 @@ const Postlist = () => {
     });
   return (
     <>
-      <h1 class="flex justify-center mb-5">Waktu Solat Sepang</h1>
+      <div class="text-neutral-50	 bg-red-600">
+      <h1 class="flex justify-center mb-5 ">Waktu Solat Sepang</h1>
       <hr class="border-1 border-black" />
+      </div>
       <div>
         <h1 class="flex justify-center mb-5">Subuh: {subuh}</h1>
         <hr />
