@@ -49,6 +49,7 @@
 This is a simple static webapp that uses e-solat API to view the current time solat at Sepang.
 
 The Web app are hosted using firebase at [TimeSolat](https://time-solat.firebaseapp.com/)
+I use the [Malaysia Praying Time](https://mpt.i906.my/api.html) API
 
 ## :sparkles: Features
 
