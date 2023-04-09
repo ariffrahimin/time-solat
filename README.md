@@ -77,10 +77,10 @@ $ git clone https://github.com/ariffrahimin/time-solat
 $ cd time-solat
 
 # Install dependencies
-$ yarn
+$ npm i
 
 # Run the project
-$ yarn start
+$ npm start
 
 # The server will initialize in the <http://localhost:3000>
 ```
