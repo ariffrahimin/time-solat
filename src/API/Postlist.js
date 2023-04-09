@@ -40,7 +40,7 @@ const Postlist = () => {
   return (
     <>
       <div class="text-neutral-50	 bg-red-600">
-      <h1 class="flex justify-center mb-5 ">Waktu Solat Sepang</h1>
+      <h1 class="flex justify-center mb-5 ">Waktu Solat Labu Lanjut</h1>
       <hr class="border-1 border-black" />
       </div>
       <div>
